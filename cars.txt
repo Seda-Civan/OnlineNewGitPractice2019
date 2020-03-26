@@ -3,8 +3,6 @@ Mercedes
 Audi
 BMW 7
 Lexus
-<<<<<<< Updated upstream
 Mercedes S500
-=======
 Kia Optima
->>>>>>> Stashed changes
+Lexus GX470
