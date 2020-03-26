@@ -1,6 +1,6 @@
 orange
 mango
 watermelon
-
 banana
 strawberry
+cherry
