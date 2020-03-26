@@ -4,3 +4,4 @@ watermelon
 banana
 strawberry
 cherry
+pear
