@@ -8,3 +8,5 @@ Kia Optima
 Lexus GX470
 Honda Civic
 Honda
+Subaru WRX STI
+Range Rover Velar
